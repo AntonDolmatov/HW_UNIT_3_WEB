@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5cimmjq9pi0jw9a4/branch/master?svg=true)](https://ci.appveyor.com/project/AntonDolmatov22388/hw-unit-3-web/branch/master)
